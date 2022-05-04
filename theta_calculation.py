@@ -2,7 +2,7 @@ import csv as csv
 
 doc1=open('synonymous_segregating_sites_northern.txt','r')
 
-threshold=992000
+threshold=10000
 positions=[]
 theta_l=[]
 seg_sites=0
